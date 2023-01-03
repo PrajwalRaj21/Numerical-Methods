@@ -1,3 +1,8 @@
+// Newton raphson method
+// Lab 1
+
+
+
 #include <stdio.h>
 #include <math.h>
 

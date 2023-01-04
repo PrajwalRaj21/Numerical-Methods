@@ -30,5 +30,6 @@ int main() {
 
 
   printf("Root not found after %d iterations\n", MAX_ITERATIONS);
+  printf("EXIT.");
   return 1;
 }
